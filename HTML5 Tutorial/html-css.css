@@ -1,0 +1,14 @@
+body{
+	background-color:pink;
+}
+h2{
+	color:red;
+	font-family:verdana;
+	font-size: 25;
+}
+#p01{
+	color:yellow;
+}
+p.pp{
+	font-size:40px;
+}
